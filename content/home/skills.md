@@ -18,38 +18,25 @@ subtitle = ""
   icon = "atom"
   icon_pack = "fas"
   name = "Environmental Stable Isotopes"
-  description = "
-  * Bulk N and C isotopes using EA and CF-IRMS
-  *	N and O isotopes using denitrifier method
-  "
+  description = "Bulk N and C isotopes using EA and CF-IRMS; N and O isotopes using denitrifier method"
 
 [[feature]]
   icon = "cloud-sun-rain"
   icon_pack = "fas"
   name = "Atmospheric Sampling"
-  description = "
-  * Quantification of gaseous NH3 and particulate NH4+ concentration and isotopic composition using active sampling techniques
-  * Precipitation collection and monitoring of nutrient concentration and isotopic composition
-  "
+  description = "Quantification of gaseous NH3, particulate NH4+, and precipitation nutrient concentration and isotopic composition"
   
 [[feature]]
   icon = "flask"
   icon_pack = "fas"
   name = "Esturine Field Sampling"
-  description = "
-  * Collection and processing of macroalgae for stable isotopic analysis
-  * Water column profiling using CTDs
-  "  
+  description = "Collection and processing of macroalgae for stable isotopic analysis; Water column profiling using CTDs"  
  
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Analysis"
-  description = "
-  * Fluent in Microsoft Office, Python, and R-Studio
-  * Remote sensing analysis using ENVI
-  * GIS analysis using ArcGIS Pro
-  "  
+  description = "Fluent in Microsoft Office, Python, and R-Studio; Remote sensing analysis using ENVI; GIS analysis using ArcGIS Pro"  
 
 # Uncomment to use emoji icons.
 # [[feature]]

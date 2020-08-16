@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Undergraduate Research Fellow"
+  company = "Brown U. Department of Earth, Environmental, and Planetary Sciences"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Providence, Rhode Island"
+  date_start = "2019-05-01"
+  date_end = "2012-05-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+o	Estuarian biogeochemistry and atmospheric chemistry with a focus on nitrogen cycling
+o	Dry atmospheric deposition of ammonia/ammonium in Narragansett Bay quantified at ultra-high time resolution using novel relaxed eddy accumulation techniques.
+o	Influence of precipitation on nitrogen cycling in Narragansett Bay, RI investigated using stable isotopes.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Fieldwork Assistant"
+  company = "Brown U. Department of Ecology and Evolutionary Biology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Bahia, Brazil"
+  date_start = "2017-01-01"
+  date_end = "2019-05-01"
+  description = """
+o	Terrestrial biogeochemistry with a focus on nutrient cycling in tropical rainforests
+o	Collaborated with graduate students and postdoctoral research associates on experimental design and sample analysis.
+o	Traveled to Bahía, Brazil to examine the effect of water and nutrient limitation on nitrogen fixation in tropical legumes.
+  """
+  
+  [[experience]]
+  title = "Research Assistant"
+  company = "Brown U. Department of Ecology and Evolutionary Biology"
+  company_url = ""
+  location = "Bahia, Brazil"
+  date_start = "2017-01-01"
+  date_end = "2017-05-01"
+  description = """
+o	Catalogued dispersal and reproductive patterns of endemic plants in the continental United States to investigate their resilience to increased surface air temperatures over the next century.
+  """
 
 +++

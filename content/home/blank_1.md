@@ -24,8 +24,8 @@ subtitle = "Aspiring biogeochemist with a passion for the water"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#191970"
+  gradient_end = "#02075d"
   
   # Background image.
   # image = "IMG_0661.jpg"  # Name of image in `static/media/`.

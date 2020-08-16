@@ -1,6 +1,4 @@
 ---
-draft: true
-
 title: Posts
 
 # View.

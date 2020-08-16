@@ -15,22 +15,41 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Environmental Stable Isotopes"
+  description = "
+  * Bulk N and C isotopes using EA and CF-IRMS
+  *	N and O isotopes using denitrifier method
+  "
+
+[[feature]]
+  icon = "cloud-sun-rain"
+  icon_pack = "fas"
+  name = "Atmospheric Sampling"
+  description = "
+  * Quantification of gaseous NH3 and particulate NH4+ concentration and isotopic composition using active sampling techniques
+  * Precipitation collection and monitoring of nutrient concentration and isotopic composition
+  "
   
 [[feature]]
-  icon = "chart-line"
+  icon = "flask"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Esturine Field Sampling"
+  description = "
+  * Collection and processing of macroalgae for stable isotopic analysis
+  * Water column profiling using CTDs
+  "  
+ 
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data Analysis"
+  description = "
+  * Fluent in Microsoft Office, Python, and R-Studio
+  * Remote sensing analysis using ENVI
+  * GIS analysis using ArcGIS Pro
+  "  
 
 # Uncomment to use emoji icons.
 # [[feature]]

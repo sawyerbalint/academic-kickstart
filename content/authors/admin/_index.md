@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Aspiring Biogeochemist"
+role: Aspiring Biogeochemist
 
 # Organizations/Affiliations
 organizations:

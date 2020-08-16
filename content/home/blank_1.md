@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Sawyer Balint"
-subtitle = "Aspiring biogeochemist with a passion for the water"
+subtitle = "Aspiring biogeochemist with a passion for the ocean"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

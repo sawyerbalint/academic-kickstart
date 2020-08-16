@@ -21,11 +21,11 @@ subtitle = "Aspiring biogeochemist with a passion for the ocean"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "dark green"
   
   # Background gradient.
-  gradient_start = "#191970"
-  gradient_end = "#02075d"
+  gradient_start = "#006400"
+  gradient_end = "#006400"
   
   # Background image.
   # image = "IMG_0661.jpg"  # Name of image in `static/media/`.

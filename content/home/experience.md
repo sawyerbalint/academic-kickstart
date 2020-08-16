@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2012-05-01"
   description = """
-o	Estuarian biogeochemistry and atmospheric chemistry with a focus on nitrogen cycling
-o	Dry atmospheric deposition of ammonia/ammonium in Narragansett Bay quantified at ultra-high time resolution using novel relaxed eddy accumulation techniques.
-o	Influence of precipitation on nitrogen cycling in Narragansett Bay, RI investigated using stable isotopes.
+*	Estuarian biogeochemistry and atmospheric chemistry with a focus on nitrogen cycling
+*	Dry atmospheric deposition of ammonia/ammonium in Narragansett Bay quantified at ultra-high time resolution using novel relaxed eddy accumulation techniques.
+*	Influence of precipitation on nitrogen cycling in Narragansett Bay, RI investigated using stable isotopes.
   """
 
 [[experience]]
@@ -38,9 +38,9 @@ o	Influence of precipitation on nitrogen cycling in Narragansett Bay, RI investi
   date_start = "2017-01-01"
   date_end = "2019-05-01"
   description = """
-o	Terrestrial biogeochemistry with a focus on nutrient cycling in tropical rainforests
-o	Collaborated with graduate students and postdoctoral research associates on experimental design and sample analysis.
-o	Traveled to Bahía, Brazil to examine the effect of water and nutrient limitation on nitrogen fixation in tropical legumes.
+*	Terrestrial biogeochemistry with a focus on nutrient cycling in tropical rainforests
+*	Collaborated with graduate students and postdoctoral research associates on experimental design and sample analysis.
+*	Traveled to Bahía, Brazil to examine the effect of water and nutrient limitation on nitrogen fixation in tropical legumes.
   """
   
   [[experience]]
@@ -51,7 +51,7 @@ o	Traveled to Bahía, Brazil to examine the effect of water and nutrient limitat
   date_start = "2017-01-01"
   date_end = "2017-05-01"
   description = """
-o	Catalogued dispersal and reproductive patterns of endemic plants in the continental United States to investigate their resilience to increased surface air temperatures over the next century.
+*	Catalogued dispersal and reproductive patterns of endemic plants in the continental United States to investigate their resilience to increased surface air temperatures over the next century.
   """
 
 +++

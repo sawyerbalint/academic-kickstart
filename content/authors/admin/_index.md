@@ -41,7 +41,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/sawyerbalint
+  link: 
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Sawyer_Balint

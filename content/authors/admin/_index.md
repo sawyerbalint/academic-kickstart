@@ -39,9 +39,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/sawyerbalint
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sawyerbalint/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Sawyer_Balint

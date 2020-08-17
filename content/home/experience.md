@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Providence, Rhode Island"
   date_start = "2019-05-01"
-  date_end = "2012-05-01"
+  date_end = "2020-05-01"
   description = """
 *	Estuarian biogeochemistry and atmospheric chemistry with a focus on nitrogen cycling
 *	Dry atmospheric deposition of ammonia/ammonium in Narragansett Bay quantified at ultra-high time resolution using novel relaxed eddy accumulation techniques.

@@ -1,5 +1,6 @@
 ---
-title: Posts
+title: Sailing
+tags = 'other_interests"
 
 # View.
 #   1 = List
@@ -11,4 +12,6 @@ view: 2
 header:
   caption: ""
   image: ""
+  
+"I love sailing"
 ---

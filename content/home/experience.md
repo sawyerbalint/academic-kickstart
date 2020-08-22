@@ -19,6 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Undergraduate Research Fellow"
+  url = "www.google.com"
   company = "Brown U. Department of Earth, Environmental, and Planetary Sciences"
   company_url = ""
   location = "Providence, Rhode Island"

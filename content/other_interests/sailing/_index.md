@@ -13,5 +13,4 @@ header:
   caption: ""
   image: ""
   
-"I love sailing"
 ---

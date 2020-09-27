@@ -1,6 +1,6 @@
 ---
 title: Sailing
-tags = 'other_interests"
+tags = "other_interests"
 
 # View.
 #   1 = List

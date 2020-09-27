@@ -56,9 +56,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am focused on esturine biogeochemistry and using stable isotopes to understand the cycling of nutrients in eutrophic ecosystems. While my current research investigates the role of atmopsheric deposition in Narragasett Bay, RI, I have past experience with nitrogen and phosphorus cycling in tropical forests and high-time resolution sampling of atmospheric reactive nitrogen.
